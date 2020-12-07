@@ -8,7 +8,7 @@ function Home() {
             <Contador />
             <div> Filipe Deschamps</div>
             <div> Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]</div>
-            <div> Youtube: https://www.youtube.com/watch?v=EW7m2WIvFgQ&t=53s </div>
+
         </div>
     )
 }
