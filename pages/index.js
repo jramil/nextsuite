@@ -4,9 +4,11 @@ import { useState } from 'react';
 function Home() {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Home Principal do Projeto em 06/12/2020 23:43 </h1>
             <Contador />
-            <div>teste</div>
+            <div> Filipe Deschamps</div>
+            <div> Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]</div>
+            <div> Youtube: https://www.youtube.com/watch?v=EW7m2WIvFgQ&t=53s </div>
         </div>
     )
 }
